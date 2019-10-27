@@ -1,1 +1,27 @@
-<%- partial('_partial/article', {post: page, index: false}) %>
+<% if (page.type == "tags" && site.tags.length) { %>
+    <p><div class="article-footer"></div></p>
+    <div class="article-inner">
+        <header class="article-header">
+            <h1 class="article-title" itemprop="name">
+                Tags
+            </h1>
+        </header>
+        <div class="article-entry" itemprop="articleBody">
+            <%- list_tags({show_count: theme.show_count}) %>
+        </div>
+    </div>
+    <p><div class="article-footer"></div></p>
+    <div class="article-inner">
+        <header class="article-header">
+            <h1 class="article-title" itemprop="name">
+                Tag cloud
+            </h1>
+        </header>
+        <div class="article-entry" itemprop="articleBody">
+            <p><%- tagcloud() %></p>
+        </div>
+    </div>
+    <p><div class="article-footer"></div></p>
+<% } else { %>
+    <%- partial('_partial/article', {post: page, index: false}) %>
+<% } %>
