@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: 唐翔昊
-language: zh
+language: zh-CN
 timezone:
 
 # URL
@@ -91,3 +91,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: false
+  content: false
