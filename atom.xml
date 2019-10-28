@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>无聊漫谈</title>
+  
+  
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://onemoresecond.github.io/blog/"/>
+  <updated>2019-10-28T15:06:09.085Z</updated>
+  <id>https://onemoresecond.github.io/blog/</id>
+  
+  <author>
+    <name>唐翔昊</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>抵抗者宣言</title>
+    <link href="https://onemoresecond.github.io/blog/2019/10/27/%E6%8A%B5%E6%8A%97%E8%80%85%E5%AE%A3%E8%A8%80/"/>
+    <id>https://onemoresecond.github.io/blog/2019/10/27/抵抗者宣言/</id>
+    <published>2019-10-27T18:10:45.000Z</published>
+    <updated>2019-10-28T15:06:09.085Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;人生来只受自然规律束缚，并在此束缚下做想做的事。&lt;/p&gt;
+&lt;p&gt;人的合作带来更大力量。为了做更多想做的事，人依靠社会规则团结起来。&lt;/p&gt;
+&lt;p&gt;既有的社会规则会塑造新生的人，这导致了社会规则自身的惯性。这惯性的力量如此强大，以致人会有这社会规则是自然规律的错觉。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="社会" scheme="https://onemoresecond.github.io/blog/tags/%E7%A4%BE%E4%BC%9A/"/>
+    
+  </entry>
+  
+</feed>
