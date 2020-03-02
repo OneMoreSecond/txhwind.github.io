@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://onemoresecond.github.io/blog/"/>
-  <updated>2020-02-25T14:59:21.135Z</updated>
+  <updated>2020-03-02T15:16:42.261Z</updated>
   <id>https://onemoresecond.github.io/blog/</id>
   
   <author>
@@ -17,11 +17,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>标签概述</title>
+    <link href="https://onemoresecond.github.io/blog/2020/03/02/%E6%A0%87%E7%AD%BE%E6%A6%82%E8%BF%B0/"/>
+    <id>https://onemoresecond.github.io/blog/2020/03/02/标签概述/</id>
+    <published>2020-03-02T23:06:03.000Z</published>
+    <updated>2020-03-02T15:16:42.261Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这里描述了本网站中各个标签的含义。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;标签&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;cent
+      
+    
+    </summary>
+    
+    
+    
+      <category term="杂谈" scheme="https://onemoresecond.github.io/blog/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人的行为与利益动机</title>
+    <link href="https://onemoresecond.github.io/blog/2020/03/02/%E4%BA%BA%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%B8%8E%E5%88%A9%E7%9B%8A%E5%8A%A8%E6%9C%BA/"/>
+    <id>https://onemoresecond.github.io/blog/2020/03/02/人的行为与利益动机/</id>
+    <published>2020-03-02T23:05:51.000Z</published>
+    <updated>2020-03-02T15:16:42.261Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;利益&quot;&gt;&lt;a href=&quot;#利益&quot; class=&quot;headerlink&quot; title=&quot;利益&quot;&gt;&lt;/a&gt;利益&lt;/h2&gt;&lt;p&gt;任何为人带来良好感受的事物都可称作利益。&lt;/p&gt;
+&lt;p&gt;这里的良好感受是指正面的感受大于负面的感受。&lt;/p&gt;
+&lt;p&gt;一种感受是否良好是主观的
+      
+    
+    </summary>
+    
+    
+    
+      <category term="人" scheme="https://onemoresecond.github.io/blog/tags/%E4%BA%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>敏捷写作</title>
     <link href="https://onemoresecond.github.io/blog/2020/02/25/%E6%95%8F%E6%8D%B7%E5%86%99%E4%BD%9C/"/>
     <id>https://onemoresecond.github.io/blog/2020/02/25/敏捷写作/</id>
     <published>2020-02-25T22:54:45.000Z</published>
-    <updated>2020-02-25T14:59:21.135Z</updated>
+    <updated>2020-03-02T15:16:42.261Z</updated>
     
     <summary type="html">
     
@@ -45,21 +100,22 @@
     <link href="https://onemoresecond.github.io/blog/2019/10/27/%E6%8A%B5%E6%8A%97%E8%80%85%E5%AE%A3%E8%A8%80/"/>
     <id>https://onemoresecond.github.io/blog/2019/10/27/抵抗者宣言/</id>
     <published>2019-10-27T18:10:45.000Z</published>
-    <updated>2020-02-25T14:59:21.135Z</updated>
+    <updated>2020-03-02T00:00:00.000Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;人生来只受自然规律束缚，并在此束缚下做想做的事。&lt;/p&gt;
+        &lt;p&gt;人，生来只受自然规律束缚，并在此束缚下做想做的事。&lt;/p&gt;
 &lt;p&gt;人的合作带来更大力量。为了做更多想做的事，人依靠社会规则团结起来。&lt;/p&gt;
-&lt;p&gt;既有的社会规则会塑造新生的人，这导致了社会规则自身的惯性。这惯性的力量如此强大，以致人会有这社会规则是自然规律的错觉。&lt;/p&gt;
-
+&lt;p&gt;既有的社会规则影响着活着的人，也塑造着新生的人。这导致了社会规则自身的惯性。&lt;br&gt;这惯性的力量如此强大，以致人会误认为这社会
       
     
     </summary>
     
     
+    
+      <category term="人" scheme="https://onemoresecond.github.io/blog/tags/%E4%BA%BA/"/>
     
       <category term="社会" scheme="https://onemoresecond.github.io/blog/tags/%E7%A4%BE%E4%BC%9A/"/>
     
